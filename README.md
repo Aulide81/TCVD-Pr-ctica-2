@@ -1,4 +1,4 @@
-# Limpieza y validación de Titanic dataset <img align="center" width="150" height="50" src="image/titanic.jpeg"> 
+# Limpieza y validación de Titanic dataset
 
 ## Descripción
 
