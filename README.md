@@ -21,8 +21,8 @@ Todo el desarrollo se ha realizado mediante el software estadístico *R* bajo el
 * `data/gender_submission.csv`: Fichero con el target del fichero test original, descargado directamente de [Kaggle](https://www.kaggle.com/c/titanic/data).
 * `data/titanic_original.csv`: Fichero que fusiona toda la información original de los tres ficheros anteriores.
 * `data/titanic_procesado.csv`: Fichero con la información ya procesada y limipia.
-* `doc/Practica 2.pdf`: Documento de la práctica.
-* `src/Practica 2.Rmd`: Fichero *R Markdown* fuente del documento de la práctica.
+* `doc/Practica2.pdf`: Documento de la práctica.
+* `src/Practica2.Rmd`: Fichero *R Markdown* fuente del documento de la práctica.
 
 ## Set de datos
 
