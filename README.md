@@ -1,3 +1,8 @@
+<div class="fluid-row" id="header">
+<h1 class="title toc-ignore">Tipología y ciclo de vida de los datos: Práctica 2</h1>
+<p class="author"><em>Autor: Emilio Arenas</em></p>
+</div>
+
 # Limpieza y validación de Titanic dataset
 
 ## Descripción
