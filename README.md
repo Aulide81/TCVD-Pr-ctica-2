@@ -7,7 +7,7 @@
 
 ## Descripción
 
-Esta práctica, [disponíble en Github](https://github.com/Aulide81/TCVD-Practica-2), se ha realizado para la asignatura de *Tipología y ciclo de vida de los datos*, cursada dentro del *Máster en Ciencia de Datos* de la *Univesitat Oberta de Catalunya (UOC)*.
+Esta práctica se ha realizado para la asignatura de *Tipología y ciclo de vida de los datos*, cursada dentro del *Máster en Ciencia de Datos* de la *Univesitat Oberta de Catalunya (UOC)*.
 
 El objetivo de la misma es el tratamiento del conjunto de datos de [Kaggle](https://www.kaggle.com), [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic), 
 siguiendo las principales etapas de un proyecto analítico en ciencia de datos.
